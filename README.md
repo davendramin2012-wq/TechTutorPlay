@@ -30,6 +30,8 @@ Compiler Notes: Temporary build errors may occur due to ongoing modularization
 
 /v1-web-prototype: Original HTML5/CSS3 prototypes
 
+/security: Security layer handling authentication and access control logic.
+
 README.md: Project documentation and environment specs
 
 ## 🎯 Strategic Goals
