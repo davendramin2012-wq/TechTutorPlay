@@ -16,6 +16,27 @@ This repository serves as the main hub for experimentations with **Microsoft 365
 1. [ ] Integrate Microsoft Graph API for automated tutoring schedules.
 2. [ ] Configure professional email routing for `techtutorplay.tech`.
 3. [ ] Test deployment on Hyper-V virtualized environments.
+## 📂 Project Architecture & Status
+Project State: Under active refactoring (Migration to OOP)
 
+Status: Debugging Core logic and Namespace organization
+
+Compiler Notes: Temporary build errors may occur due to ongoing modularization
+
+## 🗺️ Repository Map
+/src: Core C# files (Student management and Business logic)
+
+/tests: AI-assisted logic tests with GitHub Copilot
+
+/v1-web-prototype: Original HTML5/CSS3 prototypes
+
+README.md: Project documentation and environment specs
+
+## 🎯 Strategic Goals
+[ ] Finalize the C# Student Class with average calculation
+
+[ ] Setup professional email routing for techtutorplay.tech
+
+[ ] Microsoft Founders Hub application readiness
 ---
 *Developed by TechTutorPlay Lab Team*
