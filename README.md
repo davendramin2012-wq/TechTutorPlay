@@ -1,7 +1,5 @@
 # TechTutorPlay Lab 🚀
-💻 Stato del Progetto
-Il sistema è attualmente in fase di refactoring massivo. Stiamo migrando la logica dal prototipo iniziale a un'architettura professionale orientata agli oggetti (OOP) in C#.💻 Stato del Progetto
-Il sistema è attualmente in fase di refactoring massivo. Stiamo migrando la logica dal prototipo iniziale a un'architettura professionale orientata agli oggetti (OOP) in C#.
+
 ### Educational Project for Tech Learning and Development
 ## 📝 Project Overview
 TechTutorPlay is an educational initiative designed to explore software development, cloud computing, and system administration. 
