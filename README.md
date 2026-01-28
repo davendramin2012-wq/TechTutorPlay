@@ -15,6 +15,6 @@ This repository serves as the main hub for experimentations with **Microsoft 365
 1. [ ] Integrate Microsoft Graph API for automated tutoring schedules.
 2. [ ] Configure professional email routing for `techtutorplay.tech`.
 3. [ ] Test deployment on Hyper-V virtualized environments.
-
+4. Development Environment: Windows 11 Pro (Physical Machine) / Testing Environment: Windows 11 Enterprise (VM)
 ---
 *Developed by TechTutorPlay Lab Team*
