@@ -10,7 +10,7 @@ This repository serves as the main hub for experimentations with **Microsoft 365
 * **IDE:** Visual Studio 2022 / VS Code
 * **Hardware:** AMD Ryzen 9 7900X3D | RTX 5070 | 32GB RAM
 * **Goal:** Developing custom solutions for educational management.
-* Development Environment: Windows 11 Pro (Physical Machine) / Testing Environment: Windows 11 Enterprise (VM)
+* Development Environment: Windows 11 Pro (Physical Machine) / Testing Environment: Windows 11 Enterprise Insider Prewiew (VM)
 
 ## 🚀 Current Goals
 1. [ ] Integrate Microsoft Graph API for automated tutoring schedules.
